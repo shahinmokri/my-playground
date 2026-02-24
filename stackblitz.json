@@ -1,0 +1,7 @@
+{
+  "image": "php",
+  "start": "php -S 0.0.0.0:3000 -t .",
+  "port": 3000,
+  "description": "Simple PHP demo project",
+  "template": "php"
+}
